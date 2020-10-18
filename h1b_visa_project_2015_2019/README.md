@@ -12,11 +12,11 @@
   
  
 ## Tools Used In This Project
-#### **R Version:** 3.5.3
-#### **R Packages:** readxl, tidyverse, hashmap, stringr, openxlsx
-#### **Excel**
-#### **Inspiration and first dashboard dataset:** [Data Source](https://www.kaggle.com/nsharan/h-1b-visa)
-#### **Tableau 2020.1.4
+##### **R Version:** 3.5.3
+##### **R Packages:** readxl, tidyverse, hashmap, stringr, openxlsx
+##### **Excel**
+##### **Inspiration and first dashboard dataset:** [Data Source](https://www.kaggle.com/nsharan/h-1b-visa)
+##### **Tableau 2020.1.4
  
 
 ## Data Cleaning [Link to R File:](https://github.com/abrambeyer/Tableau_Projects/tree/main/h1b_visa_project_2015_2019/R)
