@@ -30,9 +30,11 @@
 
 
 ### ***U.S. Great Lakes Region H1B Visa Applications 2015-2019***
+[Link to Tableau Public Visualization](https://public.tableau.com/profile/abrambeyer#!/vizhome/U_S_GreatLakesRegionH1BVisaApplications2015-2019/U_S_GreatLakesRegionH1BVisas2015-2019)
 <img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/h1b_visa_project_2015_2019/2015_2019_demo_gif.gif" width="500">
  
 ### ***U.S. H1B Visas 2011-2016***
+[Link to Tableau Public Visualization](https://public.tableau.com/profile/abrambeyer#!/vizhome/USH1BVisas2011-2016/Dashboard1)
 <img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/h1b_visa_project_2015_2019/2011_2015_demo_gif.gif" width="500">
  
  
