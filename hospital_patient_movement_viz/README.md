@@ -26,4 +26,4 @@
 ### ***Hospital Patient Movement Viz***
 [Link to Tableau Public Visualization](https://public.tableau.com/profile/abrambeyer#!/vizhome/HospitalPatientMovementViz/HospitalPatientMovementTrackerDashboard)  
 
-<img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/h1b_visa_project_2015_2019/2015_2019_demo_gif.gif" width="500">
+<img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/hospital_patient_movement_viz/patient_movement_viz.gif" width="500">
