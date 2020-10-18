@@ -26,6 +26,6 @@
 - Cleaning and spell-checking worksite cities and worksite states.
 - Export to Excel to use with Tableau
 
- ![](name-of-giphy.gif)
+ ![](2011_2015_demo_gif.gif)
  
  
