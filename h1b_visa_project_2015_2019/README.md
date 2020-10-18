@@ -27,7 +27,7 @@
 - Export to Excel to use with Tableau
 
 
-<img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/h1b_visa_project_2015_2019/2011_2015_demo_gif.gif" width="48">
+<img src="https://github.com/abrambeyer/Tableau_Projects/blob/main/h1b_visa_project_2015_2019/2011_2015_demo_gif.gif" width="500">
  
  
  
