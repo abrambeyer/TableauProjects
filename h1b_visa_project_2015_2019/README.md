@@ -11,13 +11,21 @@
   - New dashboard design on Tableau Public for the new dataset.  
   
  
- ## Tools Used In This Project
- #### **R Version:** 3.5.3
- #### **R Packages:** readxl, tidyverse, hashmap, stringr, openxlsx
- #### **Inspiration and first dashboard dataset:** [Data Source](https://www.kaggle.com/nsharan/h-1b-visa)
+## Tools Used In This Project
+#### **R Version:** 3.5.3
+#### **R Packages:** readxl, tidyverse, hashmap, stringr, openxlsx
+#### **Excel**
+#### **Inspiration and first dashboard dataset:** [Data Source](https://www.kaggle.com/nsharan/h-1b-visa)
+#### **Tableau 2020.1.4
  
 
- ## Data Cleaning [Link to R File:]()
+## Data Cleaning [Link to R File:](https://github.com/abrambeyer/Tableau_Projects/tree/main/h1b_visa_project_2015_2019/R)
+- Read in the Disclosure data files from www.dol.gov site.
+- Filter down to only Great Lakes States data
+- Converting the prevailing wage column to yearly
+- Cleaning and spell-checking worksite cities and worksite states.
+- Export to Excel to use with Tableau
+
  
  
  
