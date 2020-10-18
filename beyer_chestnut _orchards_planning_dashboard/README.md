@@ -4,7 +4,7 @@
 ## Project Overview:
 
 - **Tableau Dashboard**
-  - I built a high-level overview dashboard to accompany a suite of tools for my father's hobby chestnut farm.  The dashboard gives my father insight into avg. cost per variety, death rates, yearly plantings and deaths so he can better plan for next years and understand how many trees he should be replacing and which variety will do best.
+  - I built a high-level overview dashboard to accompany a suite of tools for my father's hobby chestnut farm.  The dashboard gives my father static view insight into avg. cost per variety, death rates, yearly plantings and deaths so he can better plan for next years and understand how many trees he should be replacing and which variety will do best.  Since this is a static view, there are no filters.  As new data is added to the database, it will update the "current" overview of the orchard.  This dashboard will likely grow as the database grows.  I plan to add information about yearly crop yields and forecasting.
 
 ## Tools Used In This Project
 - **Microsoft Access**
